@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-peopleconnect-ember",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PeopleConnect shareable ESLint Ember.js config",
   "main": "index.js",
   "repository": {
