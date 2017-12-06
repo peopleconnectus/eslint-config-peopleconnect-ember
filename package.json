@@ -16,7 +16,6 @@
   "peerDependencies": {
     "eslint-config-sane": "^0.4.1",
     "eslint-plugin-ember": "^5.0.1",
-    "eslint-plugin-hbs": "^0.1.1",
-    "eslint-plugin-prefer-let": "^1.0.0"
+    "eslint-plugin-hbs": "^0.1.1"
   }
 }
