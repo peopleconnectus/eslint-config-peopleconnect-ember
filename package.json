@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/peopleconnectus/eslint-config-peopleconnect-ember#readme",
   "peerDependencies": {
-    "eslint-config-sane": "^0.4.1",
+    "eslint-config-peopleconnect": "^1.0.0",
     "eslint-plugin-ember": "^5.0.1",
     "eslint-plugin-hbs": "^0.1.1"
   }
