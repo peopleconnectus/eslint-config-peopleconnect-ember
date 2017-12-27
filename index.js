@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    'sane',
+    'peopleconnect',
     'plugin:ember/recommended'
   ],
   plugins: [
