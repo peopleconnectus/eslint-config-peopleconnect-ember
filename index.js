@@ -13,6 +13,10 @@ module.exports = {
     'ember/no-jquery': 2,
     'ember/no-observers': 2,
     'ember/no-side-effects': 2,
-    'hbs/check-hbs-template-literals': 2
+
+    'hbs/check-hbs-template-literals': 2,
+
+    // we want to enforce using the fetch polyfill package
+    'no-restricted-globals': [2, 'fetch']
   }
 };
