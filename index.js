@@ -1,10 +1,8 @@
 module.exports = {
   extends: [
-    'peopleconnect',
-    'plugin:ember/recommended'
+    'peopleconnect'
   ],
   plugins: [
-    'ember',
     'hbs'
   ],
   rules: {
